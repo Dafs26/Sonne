@@ -1,11 +1,11 @@
+import i9 from './/../public/9.jpg'; 
+
 export const SliderData = [
     {
-      image:
-      '/../public/1.png',
+      image:i9,
     },
     {
-      image:
-      '/../public/9.jpg',
+      image:i9,
     },
   ];
   
