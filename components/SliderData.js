@@ -5,7 +5,7 @@ export const SliderData = [
     },
     {
       image:
-      '/../public/9.png',
+      '/../public/9.jpg',
     },
   ];
   
