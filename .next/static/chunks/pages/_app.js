@@ -232,7 +232,7 @@ eval(__webpack_require__.ts("\n\nif (false) {} else {\n  module.exports = __webp
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
 "use strict";
-module.exports = __webpack_require__.p + "static/media/1.4c5d68bc.png";
+module.exports = __webpack_require__.p + "static/media/1.57d0c4c9.png";
 
 /***/ }),
 
