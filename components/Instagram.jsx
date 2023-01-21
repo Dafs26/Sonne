@@ -1,10 +1,10 @@
 import React from 'react'
-import IgImg1 from '../public/2.png';
-import IgImg2 from '../public/3.png';
-import IgImg3 from '../public/4.png';
-import IgImg4 from '../public/5.png';
-import IgImg5 from '../public/6.png';
-import IgImg6 from '../public/7.png';
+import IgImg1 from '../public/1.png';
+import IgImg2 from '../public/1.png';
+import IgImg3 from '../public/1.png';
+import IgImg4 from '../public/1.png';
+import IgImg5 from '../public/1.png';
+import IgImg6 from '../public/1.png';
 import InstagramImg from './InstagramImg';
 
 
