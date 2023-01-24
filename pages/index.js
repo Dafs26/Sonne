@@ -13,7 +13,7 @@ export default function Home() {
         <meta name='description' content='' />
         <link rel='icon' href='/favicon.ico' />
       </Head>
-      <Hero heading='Sonne clothing' message='Every art for every soul' />
+      <Hero heading='Every art' message='For every soul' />
       <Slider slides={SliderData} />
       <Instagram />
     </div>
