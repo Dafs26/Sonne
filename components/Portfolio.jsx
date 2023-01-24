@@ -1,6 +1,10 @@
 import Image from 'next/image';
 import React from 'react';
-import i9 from './/../public/9.jpg'
+import f1 from './/../public/foto1.jpg'
+import f2 from './/../public/foto2.jpg'
+import f3 from './/../public/foto3.jpg'
+import f4 from './/../public/foto4.jpg'
+import f5 from './/../public/foto5.jpg'
 
 const Portfolio = () => {
   return (
@@ -9,7 +13,7 @@ const Portfolio = () => {
       <div className='grid grid-rows-none md:grid-cols-5 p-4 gap-4'>
         <div className='w-full h-full col-span-2 md:col-span-3 row-span-2'>
           <Image
-            src={i9}
+            src={f1}
             alt='/'
             layout='responsive'
             width='677'
@@ -18,7 +22,7 @@ const Portfolio = () => {
         </div>
         <div className='w-full h-full'>
           <Image
-            src={i9}
+            src={f2}
             alt='/'
             width='215'
             height='217'
@@ -28,7 +32,7 @@ const Portfolio = () => {
         </div>
         <div className='w-full h-full'>
           <Image
-            src={i9}
+            src={f3}
             alt='/'
             width='215'
             height='217'
@@ -38,7 +42,7 @@ const Portfolio = () => {
         </div>
         <div className='w-full h-full'>
           <Image
-            src={i9}
+            src={f4}
             alt='/'
             width='215'
             height='217'
@@ -48,7 +52,7 @@ const Portfolio = () => {
         </div>
         <div className='w-full h-full'>
           <Image
-            src={i9}
+            src={f5}
             alt='/'
             width='215'
             height='217'
